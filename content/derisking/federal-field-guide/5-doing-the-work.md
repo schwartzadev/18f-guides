@@ -233,7 +233,7 @@ No agency can move to agile overnight. The shift requires a lot of difficult org
 
 Using the methods we recommend allows agencies to continue steering the ship while also allowing them to avoid the rocks.
 
-See [18F's agile principles and practices](https://guides.18f.gov/agile/) for more information.
+See [18F's agile principles and practices](https://18f-guides.netlify.app/agile/) for more information.
 
 ### Post-award contract administration looks different in agile
 By **Miatta Myers**, **Vicki McFadden**, and **Mark Hopson**

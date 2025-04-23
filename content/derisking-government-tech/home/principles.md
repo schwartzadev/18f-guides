@@ -76,7 +76,7 @@ User stories, along with technical considerations, inform the design and develop
 
 Project stakeholders and team members can only guess how users will use software. Designing with and for users is the only way to ensure the software will serve their needs.
 
-Consult the [18F User Experience Guide](https://guides.18f.gov/ux-guide/research/) for more detail on approaches.
+Consult the [18F User Experience Guide](https://18f-guides.netlify.app/ux-guide/research/) for more detail on approaches.
 
 ### Iterative and incremental development
 
@@ -92,8 +92,8 @@ A Scrum team usually includes five to nine people. Depending on the nature of th
 
 Agile tools and methods support quickly building code and responding to new information. They act as “sources of truth” and guardrails for prioritizing and planning work. They include:
 
-* [**Product vision**](https://guides.18f.gov/product/define/vision/): a short description of the product’s primary goal  
-* [**Product roadmap**](https://guides.18f.gov/product/define/roadmap/): a high-level diagram of how the team envisions building the product over time   
+* [**Product vision**](https://18f-guides.netlify.app/product/define/vision/): a short description of the product’s primary goal  
+* [**Product roadmap**](https://18f-guides.netlify.app/product/define/roadmap/): a high-level diagram of how the team envisions building the product over time   
 * **Product backlog**: a list of product features and bug fixes that is usually written in the user-story format  
 * **Burn-down chart**: a graph that visualizes the amount of work left to be done on a project and how much time it is estimated to take   
 * **Burn-up chart**: a graph that visualizes completed work  
@@ -171,7 +171,7 @@ Slow product decision-making is a common problem for development teams. To avoid
 
 A product owner doesn’t need to be an expert in technology. A strong product owner understands the needs of the product’s users, the goals of the organization and any legal, technical or policy constraints that need to be weighed in decisions. 
 
-While it’s possible for a product owner to learn “on the job,” it’s better that they receive formal training in agile product ownership. Free or paid training is offered online and in person through many sources (such as the [18F Product Guide](https://guides.18f.gov/product/)). If the product is critical to the agency, the product owner should have prior experience in modern software development practices or access to an experienced product coach. 
+While it’s possible for a product owner to learn “on the job,” it’s better that they receive formal training in agile product ownership. Free or paid training is offered online and in person through many sources (such as the [18F Product Guide](https://18f-guides.netlify.app/product/)). If the product is critical to the agency, the product owner should have prior experience in modern software development practices or access to an experienced product coach. 
 
 ### Leadership’s role in a custom software development project
 

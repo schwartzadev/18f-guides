@@ -15,7 +15,7 @@ method:
   what: A method that allows potential users to review and provide feedback on a solution’s visual direction.
   why: To align the established branding guidelines and attributes of a solution with the way end users view the overall brand and emotional feel.
   timeRequired: |
-    4-12 hours for <a href="https://guides.18f.gov/methods/decide/style-tiles" class="usa-link">style tiles</a>. 30 minutes per participant to get feedback.
+    4-12 hours for <a href="https://18f-guides.netlify.app/methods/decide/style-tiles" class="usa-link">style tiles</a>. 30 minutes per participant to get feedback.
   category: validate
   last_modified_at: example timestamp
 ---

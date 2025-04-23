@@ -89,7 +89,7 @@ The product owner is responsible for ensuring that software achieves its purpose
 
 The **product vision** is the guiding statement of what a software project is trying to achieve. It should be clear and concrete about what will *change* in the world by delivering the software. 
 
-For example, the vision for a new system within a benefits program might be: “Make it easier for state agency workers to detect potential fraud and error, and take timely action to resolve discrepancies, while preserving participants’ access to the full benefits they deserve.” The vision for an internal purchasing platform might be: “Create a world where the federal government can work out in the open with nontraditional vendors to get quality solutions delivered quickly and cost effectively for the public.” The vision can have more detail than these examples, but it should be immediately understandable and compelling for those involved in the product. (Consult the [18F Product Guide]({{ "https://guides.18f.gov/product/define/vision/" | url }}) for detailed guidance on creating a vision.)
+For example, the vision for a new system within a benefits program might be: “Make it easier for state agency workers to detect potential fraud and error, and take timely action to resolve discrepancies, while preserving participants’ access to the full benefits they deserve.” The vision for an internal purchasing platform might be: “Create a world where the federal government can work out in the open with nontraditional vendors to get quality solutions delivered quickly and cost effectively for the public.” The vision can have more detail than these examples, but it should be immediately understandable and compelling for those involved in the product. (Consult the [18F Product Guide]({{ "https://18f-guides.netlify.app/product/define/vision/" | url }}) for detailed guidance on creating a vision.)
 
 The vision should be established in the solicitation phase and stated in the contract. During the solicitation phase, the vision informs the goals the government is trying to achieve with the vendor’s help. 
 
@@ -340,7 +340,7 @@ From a quality perspective, it is important that the vendor uses the chosen code
 
 As with automated testing, a developer who is following these standards and using linters can easily and regularly produce output from the tool that shows there are currently no styling errors or warnings.
 
-Review 18F’s recommendation for linters for [JavaScript]({{ "https://guides.18f.gov/engineering/languages-runtimes/javascript/#style" | url }}) and [CSS]({{ "https://guides.18f.gov/engineering/languages-runtimes/css/#linting" | url }}).
+Review 18F’s recommendation for linters for [JavaScript]({{ "https://18f-guides.netlify.app/engineering/languages-runtimes/javascript/#style" | url }}) and [CSS]({{ "https://18f-guides.netlify.app/engineering/languages-runtimes/css/#linting" | url }}).
 
 #### Accessibility
 
@@ -366,7 +366,7 @@ To resolve the issues, prioritize them into categories of critical, moderate, an
 
 The development team should conduct a manual review for each major release to the project. These reviews should build on the base line and only test the portions of the project that have changed. The team should also document the review and remediation process for each accessibility issue in each phase of testing so there is an ongoing record.
 
-Refer to the [18F Accessibility Guide]({{ "https://guides.18f.gov/accessibility/checklist/" | url }}) for a comprehensive checklist and descriptions of accessibility issues and how to test for them. 
+Refer to the [18F Accessibility Guide]({{ "https://18f-guides.netlify.app/accessibility/checklist/" | url }}) for a comprehensive checklist and descriptions of accessibility issues and how to test for them. 
 
 #### Deployed
 
@@ -418,7 +418,7 @@ Security scanning involves static and dynamic analysis. **Static scanning** refe
 
 As with other automated tests, the vendor should be able to demonstrate the code in its current state doesn’t have any vulnerabilities that are classified by OWASP as either medium- or high-level static or dynamic vulnerabilities.
 
-Learn more about [good practices for security in government]({{ "https://guides.18f.gov/engineering/security/" | url }}).
+Learn more about [good practices for security in government]({{ "https://18f-guides.netlify.app/engineering/security/" | url }}).
 
 #### User research
 
@@ -445,7 +445,7 @@ When reviewing user research materials, processes, or deliverables, these are go
 * Actionable research findings  
     * After each round of research, the whole team should identify how the research findings change the work planned for the next sprint or for future design efforts. Articulating insights from findings involves various activities that allow the project team to work together to begin to map out larger patterns and themes. 
 
-Learn more about [user research in the 18F User Experience Guide]({{ "https://guides.18f.gov/ux-guide/research/" | url }}).
+Learn more about [user research in the 18F User Experience Guide]({{ "https://18f-guides.netlify.app/ux-guide/research/" | url }}).
 
 {% capture codeReviewContent %}
 **Code review** refers to the common practice of developers regularly reviewing each other’s code on a project. It is critical to maintaining consistency and quality on a project with many contributors. It allows reviewers to suggest improvements to the code and helps keep everyone on the team aware of what others are doing and how it may affect their own work. 
@@ -464,7 +464,7 @@ Open and regular communication is the key to finding a healthy level. When gover
 
 When technical expertise is not available on the government side to participate in code reviews, ask the vendor to confirm 1\) that they are conducting code reviews, and 2\) to demonstrate, in the form of pull request discussions and approvals, that reviews are happening. 
 
-Learn about [18F Engineering’s approach to code review]({{ "https://guides.18f.gov/engineering/our-approach/code-review/" | url }}).
+Learn about [18F Engineering’s approach to code review]({{ "https://18f-guides.netlify.app/engineering/our-approach/code-review/" | url }}).
 
 Review an [example of how to document the code review process in a government technology project]({{ "https://github.com/akhealth/EIS-Modernization/blob/master/code-review.md" | url }}).
 {% endcapture %}

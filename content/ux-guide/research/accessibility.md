@@ -33,7 +33,7 @@ Our primary goal as designers is to ensure our products work well for everyone. 
 
 While these conditions are protected under the Americans with Disabilities Act (ADA), they may not be seen as impairments by people within those communities. [Be respectful and curious](https://www.nih.gov/about-nih/what-we-do/science-health-public-trust/perspectives/writing-respectfully-person-first-identity-first-language) when writing or asking about people’s unique needs.
 
-[Accessibility](https://guides.18f.gov/accessibility/) benefits everyone, including people with slow internet connections, changing abilities, caregiving responsibilities, and temporary limitations from illness or injury. Centering accessibility helps us achieve our broader [mission](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) of delivering inclusive digital services to the public.
+[Accessibility](https://18f-guides.netlify.app/accessibility/) benefits everyone, including people with slow internet connections, changing abilities, caregiving responsibilities, and temporary limitations from illness or injury. Centering accessibility helps us achieve our broader [mission](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) of delivering inclusive digital services to the public.
 
 ## Conducting research with people with disabilities
 

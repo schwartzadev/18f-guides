@@ -17,10 +17,10 @@ eleventyNavigation:
 At [18F](https://18f.gsa.gov/), We empower our partners to create better digital experiences for the people of the United States. As engineers at 18F, we are federal employees who help other government agencies build, buy, and share technology products. This guide is meant as a resource for 18F engineers on how we approach technical issues. As part of working in the open, we share this guide publicly so that others can learn how we approach our work. 
 
 Our approach:
-### [Putting user experience first](https://guides.18f.gov/ux-guide/)
+### [Putting user experience first](https://18f-guides.netlify.app/ux-guide/)
 We have amazing designers and strategists who are skilled in fulfilling the needs of the people who will use your product or service. We collaborate with them on creating the best way to serve our users.
 
-### [Reducing risk with agile practices](https://guides.18f.gov/derisking/)
+### [Reducing risk with agile practices](https://18f-guides.netlify.app/derisking/)
 We use agile methodologies (usually SCRUM or Kanban) to achieve our goals and model how an agile, cross-functional team works. Being agile allows us to implement DevOps best practices, adjust to what we learn as we proceed, and tighten feedback loops.
 
 ### [Open source](https://18f.gsa.gov/open-source-policy/)

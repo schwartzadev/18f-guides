@@ -13,7 +13,7 @@ eleventyNavigation:
 method:
   title: Contextual inquiry
   what: The product team unobtrusively observes participants at work, with their permission, then asks questions.
-  why: To learn how and why users do what they do; to discover needs and attitudes that might not emerge in an <a href="https://guides.18f.gov/methods/discover/stakeholder-and-user-interviews/" class="usa-link">interview</a> to map how tools, digital and otherwise, interact during complex activities.
+  why: To learn how and why users do what they do; to discover needs and attitudes that might not emerge in an <a href="https://18f-guides.netlify.app/methods/discover/stakeholder-and-user-interviews/" class="usa-link">interview</a> to map how tools, digital and otherwise, interact during complex activities.
   timeRequired: 1-2 hours per user
   category: discover
 ---

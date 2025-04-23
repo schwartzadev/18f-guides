@@ -1,4 +1,4 @@
-Sitemap: https://guides.18f.gov/sitemap.xml
+Sitemap: https://18f-guides.netlify.app/sitemap.xml
 
 User-agent: usasearch
 Allow: /

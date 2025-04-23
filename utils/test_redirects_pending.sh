@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ### README ###
-# This script tests temporary redirects from guides.18f.gov/[guide] to their previous location on [guide].18f.gov
+# This script tests temporary redirects from 18f-guides.netlify.app/[guide] to their previous location on [guide].18f.gov
 # As new guides are released, remove the guide name from the list of  names to check.
 # This test script will be moot once all new guides have been released.
 
@@ -28,7 +28,7 @@ echo "REQUEST,RESPONSE CODE,RESPONSE URL" >> $OUTPUT_FILE
 
 while read_xml; do
     if [[ $TAG = loc ]] && [[ $CONTENT =~ $GUIDE_NAMES_RGX ]]; then
-        URL="https://guides.18f.gov${CONTENT}"
+        URL="https://18f-guides.netlify.app${CONTENT}"
         # curl configs:
         # -L         Follow redirects
         # -s         Don't output anything

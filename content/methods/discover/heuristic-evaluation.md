@@ -36,7 +36,7 @@ method:
 
 - [10 usability heuristics for user interface design — Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [USDA Digital Strategy tools — Research — Heuristic review template](https://www.usda.gov/digital-strategy/tools){.usa-link .usa-link--external}
-- [18F accessibility checklist](https://guides.18f.gov/accessibility/checklist/)
+- [18F accessibility checklist](https://18f-guides.netlify.app/accessibility/checklist/)
 
 </section>
 

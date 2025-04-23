@@ -21,7 +21,7 @@ Building a website or application that is easy accessible to everyone is  not on
 
 While coding a site to be accessible is a responsibility for engineers, accessibility is not just a concern for engineering. [Accessibility for Teams](https://accessibility.digital.gov/front-end/getting-started/) is a GSA-owned guide that gives explicit suggestions for the whole team product team can approach accessibility. It lists out ways to manually test your site, as well as giving automated testing guidance.
 
-A more exhaustive list of elements and tools can be found at the [18F Accessibility Guide](https://guides.18f.gov/accessibility/).
+A more exhaustive list of elements and tools can be found at the [18F Accessibility Guide](https://18f-guides.netlify.app/accessibility/).
 
 ## Recommended tools
 
@@ -223,11 +223,11 @@ Install the CLI globally on your machine:
 and then you can run it against a live site.
 
 > ```
-> $ pa11y https://guides.18f.gov/engineering/
+> $ pa11y https://18f-guides.netlify.app/engineering/
 >
 > Welcome to Pa11y
 >
-> > Running Pa11y on URL https://guides.18f.gov/engineering/
+> > Running Pa11y on URL https://18f-guides.netlify.app/engineering/
 >
 > No issues found!
 > ```

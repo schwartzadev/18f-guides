@@ -37,7 +37,7 @@ method:
 
 ## Additional resources{#add-usability}
 
-- [Example design research participant agreement](https://guides.18f.gov/ux-guide/participant-agreement/){.usa-link .usa-link--external} / [Ejemplo de acuerdo de participante de investigación de diseño](https://guides.18f.gov/ux-guide/participant-agreement-spanish/){.usa-link .usa-link--external}
+- [Example design research participant agreement](https://18f-guides.netlify.app/ux-guide/participant-agreement/){.usa-link .usa-link--external} / [Ejemplo de acuerdo de participante de investigación de diseño](https://18f-guides.netlify.app/ux-guide/participant-agreement-spanish/){.usa-link .usa-link--external}
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

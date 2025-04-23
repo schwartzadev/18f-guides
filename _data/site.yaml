@@ -2,7 +2,7 @@ title: 18F Guides
 description: >- # this means to ignore newlines
   A central resources for all 18F guides and methods
 
-host: https://guides.18f.gov
+host: https://18f-guides.netlify.app
 
 # Twitter handle. Only the handle, not the URL.
 twitter: 18F

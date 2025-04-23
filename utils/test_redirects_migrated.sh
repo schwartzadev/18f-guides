@@ -2,7 +2,7 @@
 
 ### README ###
 # This script tests redirects from the original paths in standalone guide
-# sitemaps to their new location at guides.18f.gov/[guide].
+# sitemaps to their new location at 18f-guides.netlify.app/[guide].
 # This test script will be moot once all new guides have been released,
 # the redirects are confirmed, and the old sites have been retired.
 
